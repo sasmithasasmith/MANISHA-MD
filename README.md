@@ -7,7 +7,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VavZd1y0lwgxqEopap2e">
-    <img alt=Support height="390" src="https://files.catbox.moe/eoqwjz.jpg">
+    <img alt=Support height="390" src="https://files.catbox.moe/6ctae3.jpg">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -20,7 +20,7 @@ You can see the Paire Code at **[PAIR CODE](https://express-pairing-code2-1.onre
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # workflows Actions code 
 ```
-nodejs-ci.ymll
+nodejs-ci.yml
 ```
 <a><img src= https://i.imgur.com/LyHic3i.gif /></a><a><img src= https://i.imgur.com/LyHic3i.gif /></a>
 # 🧍 FREE DEPLOY WORKFLOWS
